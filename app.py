@@ -99,9 +99,19 @@ st.pyplot(fig)
 
 # Tablo
 st.subheader("Top 15 Gizli Değerli Oyuncu")
-st.dataframe(
+
+tablo = (
     df_filtre[["Player", "Squad", "Pos", "Yas", "MP", "Gls", "Ast", "Piyasa_Degeri", "Gizli_Deger"]]
     .sort_values("Gizli_Deger", ascending=False)
     .head(15)
     .reset_index(drop=True)
 )
+
+tablo.index = tablo.index + 1  # index 1'den başlasın
+
+tablo.columns = [
+    "Oyuncu", "Takım", "Pozisyon", "Yaş",
+    "Maç", "Gol", "Asist", "Piyasa Değeri", "Gizli Değer Skoru"
+]
+
+st.dataframe(tablo)

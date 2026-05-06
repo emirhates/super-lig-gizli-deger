@@ -70,3 +70,6 @@ performans. Bu bölgedeki oyuncular analizin asıl hedefi.
 ## Kurulum
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🌐 Canlı Demo
+[Uygulamayı buradan kullanabilirsiniz](https://super-lig-gizli-deger.streamlit.app)
