@@ -1,4 +1,9 @@
 futbol-env/
+bin/
+lib/
+share/
+etc/
+pyvenv.cfg
+.DS_Store
 __pycache__/
 .ipynb_checkpoints/
-*.pyc
