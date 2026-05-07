@@ -62,10 +62,11 @@ performans. Bu bölgedeki oyuncular analizin asıl hedefi.
 - **Eşleştirme hatası:** İki veri kaynağı fuzzy matching ile birleştirildi. 
   355 oyuncunun bir kısmında yanlış eşleştirme riski mevcut.
 
-## Gelecek Adımlar
-- Defans metrikleri eklenerek her pozisyon için özel skorlama sistemi kurulacak
-- xG (beklenen gol) metriği ile mevcut skorun karşılaştırılması
-- Otomatik veri güncelleme pipeline'ı
+## Gelecekte Yapılabilecekler
+- Defans metrikleri eklenerek her pozisyon için özel skorlama sistemi kurulabilir.
+- xG (beklenen gol) gibi gelişmiş metriklerle mevcut skor karşılaştırılabilir.
+- Avrupa'nın diğer liglerini kapsayacak şekilde genişletilebilir.
+- Otomatik veri güncelleme pipeline'ı eklenerek her hafta güncel sonuçlar üretilebilir.
 
 ## Kurulum
 pip install -r requirements.txt
