@@ -38,16 +38,15 @@ keşfedilmemiş bir oyuncu aynı skoru almamalı. Buradaki asıl soru şu:
 
 ![Gizli Değer Grafiği](gizli_deger_grafik.png)
 
-Grafikteki en değerli bölge **sol üst köşe** — düşük piyasa değeri, yüksek 
-performans. Bu bölgedeki oyuncular analizin asıl hedefi.
+Grafikteki en değerli bölge **sol üst köşe** düşük piyasa değeri, yüksek 
+performans. Bu bölgedeki oyuncular analiz için çok değerli.
 
 **Öne çıkan isimler:**
 
 - **Güven Yalçın (Alanyaspor, 1M €):** Tüm metriklere en uygun oyuncu. 
   Küçük bir takımda 8 gol atarak sezonun sessiz golcülerinden biri oldu.
 - **Metehan Altunbaş (Eyüpspor, 300K €):** Performans metriği rakiplerine 
-  göre düşük kalsa da 23 yaşı ve piyasa değeriyle öne çıkıyor. Uzun vadeli 
-  bir yatırım profili.
+  göre düşük kalsa da 23 yaşı ve piyasa değeriyle öne çıkıyor. 
 - **Davie Selke (Başakşehir, 3M €):** Yüksek performans gösteriyor ancak 
   piyasa değeri bu listedeki diğer oyunculara kıyasla yüksek. Model maliyet-etkinlik 
   sıralaması sunduğu için listede daha aşağıda yer alıyor.
