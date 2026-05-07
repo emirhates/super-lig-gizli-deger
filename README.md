@@ -1,4 +1,4 @@
-# ⚽ Süper Lig Gizli Değerli Oyuncu Analizi
+# Süper Lig Gizli Değerli Oyuncu Analizi
 
 ## Motivasyon
 Sezon sonuna yaklaşırken transfer haberleri ve oyuncu tartışmaları hep aynı 
