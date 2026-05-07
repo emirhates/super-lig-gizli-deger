@@ -5,8 +5,7 @@ import matplotlib.pyplot as plt
 import unicodedata
 from thefuzz import process
 
-st.title("⚽ Süper Lig Gizli Değerli Oyuncular")
-st.write("Piyasa değeri düşük ama performansı yüksek oyuncuları keşfet!")
+st.title("Süper Lig Gizli Değerli Oyuncular")
 
 # Veriyi yükle
 @st.cache_data
