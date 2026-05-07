@@ -8,4 +8,5 @@ pyvenv.cfg
 __pycache__/
 .ipynb_checkpoints/
 
-*.csv
+superlig.csv
+transfermarkt.csv
